@@ -17,14 +17,14 @@ function quiz(question,answer){
 }
 
 var questions=[{
-    question:"Who is the father of cricket?",
-    answer:"Sachin Tendulkar"
+    question:"Where was i born? ",
+    answer:"Uttar-pradesh"
 },{
-    question:"What is Known as Captian-Cool? ",
+    question:"Which is my favourite dish? ",
+    answer:"Pav-bhaji"
+},{
+    question:"Who is my favourite cricketer? ",
     answer:"Dhoni"
-},{
-    question:"Who is the first president of India? ",
-    answer:"Dr Rajendra Prasad"
 },{
     question:"Where am I from? ",
     answer:"Mumbai"
